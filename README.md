@@ -81,11 +81,11 @@ Voy a proponer dos Wireframes, tanto para la página principal, como para la par
 
 Este primer wireframe contiene la disposición más apropiada para la página web, llevando las redes sociales a un punto más importante, quitando esos espacios vacíos y eliminando el apartado de contacto, que ya se encuentra en su sección del menú.
 
-![](./img/WireframePaginaPrincipal.png)
+<img src="/img/WireframePaginaPrincipal.png" alt="drawing" width="600"/>
 
 Mi segunda propuesta es llevar más arriba las tarifas, y quitar esas fotos innecesarias que podemos encontrar en la página de ErranT. De esta forma, si entramos en las tarifas, será lo primero que veamos al entrar a la página, y ya más debajo lo apoyaremos con una galería de imágenes de las instalaciones.
 
-![](./img/WireframeTarifas.png)
+<img src="/img/WireframeTarifas.png" alt="drawing" width="600"/>
 
 ## Fase 8: Añadir funcionalidades al sitemap
 
